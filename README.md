@@ -1,5 +1,5 @@
 # Mahendra-kolhe
-## Connect with me
+# Connect with me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Mahikolhe23)
 [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />](https://www.hackerearth.com/@mkolhe23)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/mkolhe23)
