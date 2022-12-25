@@ -1,7 +1,5 @@
 # Mahendra-kolhe
-# [<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png](https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-sunglasses_1f60e.gif)"
-  width="25"
-  height="25" />] Hey! Nice to see you. 
+# [<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-sunglasses_1f60e.gif" width="25" height="25" />] Hey! Nice to see you. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing and reading.
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode.
