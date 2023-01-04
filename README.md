@@ -15,5 +15,5 @@
 </div>
 
 ### :fire: My Stats 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Mahikolhe23&theme=vue-dark&hide_border=true"-/></a>
+![Mahikolhe23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahikolhe23&theme=vue-dark&hide_border=true)
 
