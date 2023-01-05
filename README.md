@@ -1,4 +1,5 @@
 # Mahendra-kolhe
+![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 # <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/smiling-face-with-sunglasses_1f60e.gif" width="30" height="30" /> Hey! Nice to see you. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing and reading.
@@ -18,4 +19,4 @@
 ![Mahikolhe23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahikolhe23&theme=vue-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
-![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
+
