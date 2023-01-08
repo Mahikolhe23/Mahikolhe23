@@ -16,12 +16,12 @@
 ## :fire: My Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 </hr>
-
-
-
 <table>
   <tr>
     <td>![Mahikolhe23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahikolhe23&theme=vue-dark&hide_border=true)</td>
    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)</td>
   </tr>
  </table>
+
+
+
