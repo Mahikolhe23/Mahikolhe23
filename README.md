@@ -8,7 +8,7 @@
 - :full_moon_with_face: Ask me about anything, i am happy to help !
 
 
-## Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
+### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 <div id="header" align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" height="318" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </div>
@@ -16,3 +16,5 @@
 ## :fire: My Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
+![Mahikolhe23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahikolhe23&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
