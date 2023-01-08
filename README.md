@@ -10,7 +10,7 @@
 
 ### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 <div id="header" align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" height="318" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" height="250" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </div>
 
 ## :fire: My Stats 
