@@ -22,6 +22,7 @@
    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)</td>
   </tr>
  </table>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
 
 
 
