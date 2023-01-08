@@ -16,5 +16,4 @@
 ## :fire: My Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 </hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&layout=compact)](https://github.com/Mahikolhe23/Mahikolhe23/edit/main/README.md)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
