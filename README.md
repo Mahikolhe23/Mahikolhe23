@@ -14,5 +14,11 @@
 </div>
 
 ## :fire: My Stats 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-</hr> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23)](https://github.com/Mahikolhe23/Mahikolhe23/edit/main/README.md)
+<table>
+<tr>
+ <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/></td>
+ <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23)](https://github.com/Mahikolhe23/Mahikolhe23/edit/main/README.md)</td>
+</tr>
+</table>
+
+
