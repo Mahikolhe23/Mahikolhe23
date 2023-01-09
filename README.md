@@ -12,7 +12,7 @@
 ## :fire: My Stats
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" style="float:right";/> 
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" style="float:right" width="50" height="50";/> 
 </p>
 
 
