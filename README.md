@@ -2,8 +2,14 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mahendra-kolhe-39b3b2113/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/mahikolhe)
 
-<img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" width="30" height="30"/>  I’m currently working on something cool;
-<img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/lightning.gif" width="30" height="30"/> In my free time, I solve problems on [Leetcode](https://leetcode.com/Mahikolhe/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/)
+<ul>
+ <li><img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" width="30" height="30"/>  I’m currently working on something cool;</li>
+ <li><img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/lightning.gif" width="30" height="30"/> In my free time, I solve problems on [Leetcode](https://leetcode.com/Mahikolhe/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/)</li>
+ <li></li>
+</ul>
+
+
+
 
 
 
