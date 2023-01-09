@@ -5,8 +5,8 @@
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" width="21" height="21"/>  I’m currently working on something cool;
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/lightning.gif" width="21" height="21"/> In my free time, I solve problems on 
  [Leetcode](https://leetcode.com/Mahikolhe/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/)
-- <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif"/> Exploring Technical Content reading,contributing to frontend and backend for building web applications.
-- <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif"/> Ask me about anything, i am happy to help !
+- <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/laptop.gif" width="21" height="21"/> Exploring Technical Content reading,contributing to frontend and backend for building web applications.
+- <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif" width="21" height="21"/> Ask me about anything, i am happy to help !
 
 ### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 <div id="header" align="center">
