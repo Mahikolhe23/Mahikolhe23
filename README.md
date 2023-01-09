@@ -9,9 +9,10 @@
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif" width="21" height="21"/> Ask me about anything, i am happy to help !
 
 ### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
+
 ## :fire: My Stats
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="250" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" style="float:right" width="250" height="250";/> 
 </p>
 
