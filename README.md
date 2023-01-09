@@ -2,17 +2,16 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mahendra-kolhe-39b3b2113/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/mahikolhe)
 
+
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/developer.gif" width="21" height="21"/>  I’m currently working on something cool;
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/lightning.gif" width="21" height="21"/> In my free time, I solve problems on 
  [Leetcode](https://leetcode.com/Mahikolhe/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/)
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/laptop.gif" width="21" height="21"/> Exploring Technical Content reading,contributing to frontend and backend for building web applications.
 - <img src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif" width="21" height="21"/> Ask me about anything, i am happy to help !
 
-### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
-<div id="header" align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" data-target="animated-image.originalLink"><img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" height="250" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-</div>
 
+### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true"/>
 ## :fire: My Stats 
 <table>
 <tr>
