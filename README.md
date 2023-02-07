@@ -12,7 +12,7 @@
 
 ## :fire: My Stats
 
-<img height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
 
