@@ -14,8 +14,6 @@
 
 <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=tokyonight)
 
 <picture>
