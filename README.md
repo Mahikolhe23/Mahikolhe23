@@ -1,6 +1,4 @@
 ## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="30" height="30" /> Hi there, I'm [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/waving%20hand.gif" width="30" height="30"/> 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mahendra-kolhe-39b3b2113/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/mahikolhe)
 
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/developer.gif" width="21" height="21"/>  I’m currently working on something cool;
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/lightning.gif" width="21" height="21"/> In my free time, I solve problems on 
