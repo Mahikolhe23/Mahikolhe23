@@ -10,6 +10,8 @@
 
 ### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 
+---
+
 ## :fire: My Stats
 
 <div class='container'>
