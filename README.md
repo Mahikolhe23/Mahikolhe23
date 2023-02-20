@@ -15,23 +15,10 @@
 ## :fire: My Stats
 
 
-<div class='container'>
-
- <!---
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahikolhe23&theme=github_dark)
--->
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&theme=blue-green" />
-
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
-
-                                                                                                                   
-                                                                                                                          
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahikolhe23&theme=github_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahikolhe23&theme=github_dark)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahikolhe23&theme=github_dark&utcOffset=8)
 
 
