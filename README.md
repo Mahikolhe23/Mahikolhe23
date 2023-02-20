@@ -14,8 +14,9 @@
 
 ## :fire: My Stats
 
-<div class='container'>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahikolhe23&theme=github_dark)
+
+<div class='container'>
 
  <!---
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Mahikolhe23&show_icons=true&theme=blue-green" />
