@@ -24,7 +24,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahikolhe23&theme=github_dark)
                                                                                                                           
                                                                                                                           
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahikolhe23&theme=github_dark)
 
 
 
