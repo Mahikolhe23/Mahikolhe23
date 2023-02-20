@@ -20,5 +20,10 @@
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
-![](https://raw.githubusercontent.com/Mahikolhe23/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Mahikolhe23/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<a href="https://github.com/Mahikolhe23/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahikolhe23&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Mahikolhe23/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahikolhe23&repo=convoychat" />
+</a>
