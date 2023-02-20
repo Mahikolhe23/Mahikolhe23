@@ -21,9 +21,4 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahikolhe23&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mahikolhe23&theme=dark)](https://git.io/streak-stats)
