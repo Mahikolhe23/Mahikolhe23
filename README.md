@@ -14,8 +14,6 @@
 
 ## :fire: My Stats
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
