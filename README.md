@@ -1,4 +1,4 @@
-## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="30" height="30" /> Hi there, I'm [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/> 
+## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="30" height="30" /> Hi there, I'm  [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/> 
 
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/developer.gif" width="21" height="21"/>  I’m currently working on something cool;
 
