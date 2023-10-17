@@ -1,4 +1,4 @@
-## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="25" height="25" /> Hi there, I'm  [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/> 
+<!-- ## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="25" height="25" /> Hi there, I'm  [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/> 
 
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/developer.gif" width="21" height="21"/>  I’m currently working on something cool;
 
@@ -8,11 +8,12 @@
 
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/laptop.gif" width="21" height="21"/> Exploring Technical Content reading,contributing to frontend and backend for building web applications.
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/message.gif" width="21" height="21"/> Ask me about anything, i am happy to help [Twitter](https://twitter.com/mahikolhe) [LinkedIn](https://www.linkedin.com/in/mahikolhe/)
-
+-->
+### Hi I am Mahi 
 ---
 ### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)
 ---
-
+<!-- 
 ## :fire: My Stats
 
 <table>
@@ -31,5 +32,5 @@
   </tr>
 </table>
 
-
+-->
 
