@@ -1,5 +1,3 @@
-### Hi, I am Mahi  
-
 ## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="25" height="25" /> Hi there, I'm [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/>  
 
 🚀 **Data Engineer | SQL | Python | Cloud | ETL**  
