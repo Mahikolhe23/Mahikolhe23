@@ -7,8 +7,9 @@
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/laptop.gif" width="21" height="21"/> **Building Projects:** Working on real-world data engineering projects and open-source contributions.  
 - <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/message.gif" width="21" height="21"/> **Problem-Solving Enthusiast** - I enjoy solving problems on  
   [Leetcode](https://leetcode.com/Mahikolhe/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/) | [HackerRank](https://www.hackerrank.com/mahikolhe23)  
-- [RESUME](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing)
-📢 **Let's Connect**: [Twitter](https://twitter.com/mahikolhe) | [LinkedIn](https://www.linkedin.com/in/mahikolhe/)  
+📢 **Let's Connect**: [Twitter](https://twitter.com/mahikolhe) | [LinkedIn](https://www.linkedin.com/in/mahikolhe/) </br> 
+
+- [RESUME](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing)</br> 
 
 ---
 
