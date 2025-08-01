@@ -1,37 +1,65 @@
-## <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/emoji.gif" width="25" height="25" /> Hi there, I'm [Mahi](https://github.com/Mahikolhe23) <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/wavinghand.gif" width="25" height="25"/>  
+<div align="center">
 
-🚀 **Data Engineer | SQL | Python | Cloud | ETL**  
+# 👨‍💻 Mahendra Kolhe  
+### Data Engineer | SQL | Python | Azure  
+📍 Pune, India &nbsp;&nbsp;|&nbsp;&nbsp; ☁️ Cloud Enthusiast | 📈 Problem Solver
 
-- <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/developer.gif" width="21" height="21"/> **Currently working as a Data Engineer**, designing scalable data pipelines and optimizing ETL workflows.  
-- <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/lightning.gif" width="21" height="21"/> **Exploring & Learning:** Snowflake, Databricks, Spark, and cloud-based data solutions.  
-- <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/laptop.gif" width="21" height="21"/> **Building Projects:** Working on real-world data engineering projects and open-source contributions.  
-- <img src="https://github.com/Mahikolhe23/Mahikolhe23/blob/main/Assets/message.gif" width="21" height="21"/> **Problem-Solving Enthusiast** - I enjoy solving problems on  
-  [Leetcode](https://leetcode.com/Mahikolhe/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/) | [HackerRank](https://www.hackerrank.com/mahikolhe23)  
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)](https://github.com/Mahikolhe23)
 
-- 📢 **Let's Connect**: [Twitter](https://twitter.com/mahikolhe) | [LinkedIn](https://www.linkedin.com/in/mahikolhe/)
-
-- [RESUME](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing)
+</div>
 
 ---
 
-### Glad to see you here! ![](https://visitor-badge.laobi.icu/badge?page_id=Mahikolhe23.Mahikolhe23)  
+Hi there! I'm **Mahendra**, a passionate **Data Engineer** with 3.4+ years of experience building robust and scalable data solutions. I specialize in **ETL development**, **Azure cloud**, **SQL/Python-based automation**, and **real-world data pipelines**.  
+
+My goal? To turn raw data into powerful insights that drive decisions. Every project I share here reflects real-world scenarios and cloud-native engineering.
 
 ---
 
-## :fire: My Stats  
+## 🚀 Projects That Speak for Themselves
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=Mahikolhe23&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Mahikolhe23&hide_border=true&langs_count=8&layout=compact&count_private=true&theme=github_dark" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Mahikolhe23&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D&theme=github_dark" alt="GitHub Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Wallet Watcher**](https://github.com/Mahikolhe23/WalletWatcher) | 📊 Tracks your expenses via Gmail → parses → analyzes → gives insights | Python, LangChain, Gmail API, Pandas |
+| [**Netflix Data Pipeline**](https://github.com/Mahikolhe23/Netflix-Data-Pipeline) | 🎬 Azure-based pipeline using Medallion Architecture + BI | ADF, ADLS, Databricks, Synapse, Power BI |
+| [**Study Notifier**](https://github.com/Mahikolhe23/study-notifier) | ⏰ Notifies study/work schedule on Mac using Google Sheets | Python, macOS, Google API |
+| [**SQL Data Warehouse**](https://github.com/Mahikolhe23/sql-data-warehouse-project) | 🛒 DWH for sales & customer analysis | SQL Server, SSIS |
+| [**Formula1 Pipeline**](https://github.com/Mahikolhe23/formula1_pipeline) | 🏎️ End-to-end data pipeline for F1 data | Azure, PySpark, SQL |
+| [**Airport Design Pipeline**](https://github.com/Mahikolhe23/Airport-Design-Pipeline) | ✈️ Simulated IoT + API data pipelines for airport analytics | Python, SQL Server, ADF |
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages**:  
+`Python` • `SQL` • `PySpark`
+
+**Cloud & Big Data**:  
+`Azure Data Factory` • `Databricks` • `Synapse` • `ADLS` • `Snowflake`
+
+**ETL & BI**:  
+`SSIS` • `Power BI` • `SQL Server` • `Snowpipe`
+
+**Others**:  
+`LangChain` • `Gmail API` • `REST APIs` • `macOS Automation` • `Git`
+
+---
+
+## 💻 Coding Profiles
+
+- [LeetCode](https://leetcode.com/Mahikolhe/)  
+- [HackerRank](https://www.hackerrank.com/mahikolhe23)  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/)
+- [Kaggle](https://www.kaggle.com/mahendrakolhe)
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahikolhe/)
+- 🧵 [X (Twitter)](https://twitter.com/mahikolhe)
+- 📄 [Resume](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing)
+- 📧 Email: mkolhe23@gmail.com
+
+---
+
+> “Data is a story. I help write it with pipelines and code.” 🚀
