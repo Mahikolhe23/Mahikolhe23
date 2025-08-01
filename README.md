@@ -34,7 +34,7 @@
 [LeetCode](https://leetcode.com/Mahikolhe/) • [HackerRank](https://www.hackerrank.com/mahikolhe23) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/) • [Kaggle](https://www.kaggle.com/mahendrakolhe)
 
 ## 📫 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/mahikolhe/) • [X (Twitter)](https://twitter.com/mahikolhe) • [Resume](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing) • 📧 mkolhe23@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mahikolhe/) • [X (Twitter)](https://twitter.com/mahikolhe) • [Resume](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing) • [Portfolio](https://mahikolhe23.github.io/Mahikolhe.github.io/)
 
 ---
 
