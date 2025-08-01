@@ -12,7 +12,7 @@ I'm Mahendra — a Data Engineer based in Pune, with 3.5+ years of experience bu
 
 I enjoy turning ideas into products and simplifying data workflows that actually make an impact.
 
-🔗 [Visit my website](https://mahendra-kolhe.com)
+🔗 [Visit my website](https://mahendra-kolhe.com](https://mahikolhe23.github.io/Mahikolhe.github.io/)
 
 ---
 
