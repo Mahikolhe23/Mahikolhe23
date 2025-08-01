@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">⚡ Building Pipelines, Not Just Profiles</h1>
 
 <p align="center">
@@ -8,33 +6,26 @@
 
 ---
 
-## 🚀 Latest Projects
+## 🌟 Hi There!
 
-> [**🧠 Wallet Watcher**](https://github.com/Mahikolhe23/WalletWatcher)  
-> Parse Gmail receipts and get smart spending insights on WhatsApp.
+I'm Mahendra — a Data Engineer based in Pune, with 3.5+ years of experience building pipelines, automating insights, and solving data problems using **Python, SQL, and cloud tools**.
 
-> [**🎬 Netflix Data Pipeline**](https://github.com/Mahikolhe23/Netflix-Data-Pipeline)  
-> Azure medallion architecture pipeline with BI dashboard.
+I enjoy turning ideas into products and simplifying data workflows that actually make an impact.
 
-> [**⏰ Study Notifier**](https://github.com/Mahikolhe23/study-notifier)  
-> Sends Mac notifications from your Google Sheets schedule.
-
-> [**🛒 SQL Data Warehouse**](https://github.com/Mahikolhe23/sql-data-warehouse-project)  
-> DWH for analyzing sales, customers, and profits.
-
-> [**🏎️ Formula1 Pipeline**](https://github.com/Mahikolhe23/formula1_pipeline)  
-> Azure-based ETL pipeline for Formula 1 racing data.
-
-> [**✈️ Airport Design Pipeline**](https://github.com/Mahikolhe23/Airport-Design-Pipeline)  
-> Simulates IoT/API airport traffic data pipelines.
+🔗 [Visit my website](https://mahendra-kolhe.com)
 
 ---
 
-## 💻 Coding Profiles  
-[LeetCode](https://leetcode.com/Mahikolhe/) • [HackerRank](https://www.hackerrank.com/mahikolhe23) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mkolhe23/) • [Kaggle](https://www.kaggle.com/mahendrakolhe)
+## 🚀 Featured Projects
 
-## 📫 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/mahikolhe/) • [X (Twitter)](https://twitter.com/mahikolhe) • [Resume](https://drive.google.com/file/d/1-WrMbHTMcUNiJfYkC3sL-Zu4LHO_HOiI/view?usp=sharing) • [Portfolio](https://mahikolhe23.github.io/Mahikolhe.github.io/)
+| Project | Description |
+|--------|-------------|
+| [🧠 Wallet Watcher](https://github.com/Mahikolhe23/WalletWatcher) | Parse Gmail receipts & get spending insights on WhatsApp |
+| [🎬 Netflix Data Pipeline](https://github.com/Mahikolhe23/Netflix-Data-Pipeline) | Azure medallion architecture + BI dashboard |
+| [⏰ Study Notifier](https://github.com/Mahikolhe23/study-notifier) | Mac notifications from your Google Sheets schedule |
+| [🛒 SQL DWH Project](https://github.com/Mahikolhe23/sql-data-warehouse-project) | Analyze sales, customers, profits using classic DWH |
+| [🏎️ Formula1 Pipeline](https://github.com/Mahikolhe23/formula1_pipeline) | Azure-based data pipeline for F1 racing analytics |
+| [✈️ Airport Design](https://github.com/Mahikolhe23/Airport-Design-Pipeline) | Simulate API & IoT traffic for an airport pipeline |
 
 ---
 
