@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Building Pipelines, Not Just Profiles</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Cloud-native;Streaming+Pipelines+%F0%9F%9A%80;Automating+Insights%2C+not+just+Reports;Deploying+Data+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Engineer+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Cloud;Streaming+Pipelines+%F0%9F%9A%80;Automating+Insights%2C+not+just+Reports;Deploying+Data+with+Purpose" alt="Typing SVG" />
 </p>
 
 ---
