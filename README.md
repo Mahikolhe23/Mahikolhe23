@@ -8,7 +8,7 @@
 
 ## 🌟 Hi There!
 
-I'm Mahendra — a Data Engineer based in Pune, with 3.5+ years of experience building pipelines, automating insights, and solving data problems using **Python, SQL, and cloud tools**.
+I'm Mahendra — a Data Engineer based in Pune, with 4.5+ years of experience building pipelines, automating insights, and solving data problems using **Python, SQL, and cloud tools**.
 
 I enjoy turning ideas into products and simplifying data workflows that actually make an impact.
 
