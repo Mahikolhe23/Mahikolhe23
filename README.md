@@ -45,14 +45,6 @@ I work with **Spark, PySpark, Databricks, Snowflake, Azure, AWS, SQL, SSIS, Pyth
 
 ---
 
-## 📌 Portfolio
-
-For experience timeline, project case studies, certifications, and contact details, visit:
-
-**[mahikolhe23.github.io/Mahikolhe.github.io](https://mahikolhe23.github.io/Mahikolhe.github.io/)**
-
----
-
 <p align="center">
   Thanks for visiting!<br>
   <a href="https://github.com/Mahikolhe23">
