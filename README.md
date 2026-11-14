@@ -40,7 +40,7 @@ I enjoy having music in the background while building data platforms and automat
 
 <p align="center">
   <a href="https://open.spotify.com/" target="_blank">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uc4m4k2n7s422kqeilf33sek2u&count=1&now_playing=1" alt="Spotify currently listening or last played track" width="420" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uc4m4k2n7s422kqeilf33sek2u&count=1&now_playing=1" alt="Spotify listening status" width="420" />
   </a>
 </p>
 
