@@ -32,6 +32,16 @@ I work with **Spark, PySpark, Databricks, Snowflake, Azure, AWS, SQL, SSIS, Pyth
 
 ---
 
+## 🎧 Currently Listening
+
+I enjoy having music in the background while building data platforms and automation systems.
+
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+
+> **Live track status:** Spotify authorization is not configured yet. Once connected, this section can display the track currently playing.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
